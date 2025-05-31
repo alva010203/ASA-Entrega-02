@@ -4,25 +4,28 @@ Estrututa do projerto
 
 projeto-asa/
 
-│
 ├── dns/                  
 │   ├── Dockerfile       
 │   ├── db.asa.br        
 │   └── named.conf.local 
-│
+
+
 ├── proxy/                
 │   ├── Dockerfile      
 │   ├── default.conf      
 │   └── index.html        
-│
+
+
 ├── web/                  
 │   ├── Dockerfile        
 │   └── index.html        
-│
+
+
 ├── web02/               
 │   ├── Dockerfile       
 │   └── index.html        
-│
+
+
 └── compose.yaml        
 
 Vídeo de execução projeto(Visível apenas para E-mails institucionais(IFRN)):
