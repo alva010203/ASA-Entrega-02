@@ -1,6 +1,6 @@
 Administração de Sistemas Abertos (Segunda entrega)
 
-Estrututa do projerto
+Estrututa da atividade:
 
 projeto-asa/
 
