@@ -25,5 +25,5 @@ projeto-asa/
 │
 └── compose.yaml        
 
-Vídeo de execução projeto(Visível apenas para Emails institucionais(IFRN)):
+Vídeo de execução projeto(Visível apenas para E-mails institucionais(IFRN)):
 https://drive.google.com/file/d/1PWTy6GC2HDIqfHe1YFGK0AqEx0O0bAye/view?usp=sharing
