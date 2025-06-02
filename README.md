@@ -41,9 +41,10 @@ https://github.com/alva010203/ASA-Entrega-02/blob/master/README.md
 
 | Serviço | Imagem Base     | Função                          |
 |---------|------------------|---------------------------------|
-| `web`   |  ( Nginx )      | Servidor web que executa o site www.asa.br |
-| `dns`   | (ubuntu)    | Serviço DNS para resolver o ip do servidor web.   |
-
+| `dns`   | (ubuntu)    | Serviço DNS para resolver o ip dos servidores web.   |
+| `proxy`   | ( Nginx)    | Servidor que recebe requisições dos clientes e repassa para os serviços pedidos.   |
+| `web`   |  ( Nginx )  | Servidor web que executa o html |
+| `web02`   |  ( Nginx )  | Servidor web que executa o html |        
 ---
 ## 📁 Estrutura da atividade
 
@@ -77,7 +78,7 @@ projeto-asa/
 ## 🖥️Apresentação projeto
 
 ### Vídeo de execução (Visível apenas para E-mails institucionais(IFRN)):
-[https://drive.google.com/file/d/1HQL-vfYCLE38QZbGrWYz71LG8-QGZAtq/view?usp=drive_link](https://drive.google.com/file/d/1PWTy6GC2HDIqfHe1YFGK0AqEx0O0bAye/view?usp=sharing)
+[https://drive.google.com/file/d/1PWTy6GC2HDIqfHe1YFGK0AqEx0O0bAye/view?usp=sharing]
 ### Apresentação pdf
 [Docker.pdf](https://github.com/user-attachments/files/20031055/Docker.pdf)
 ---
