@@ -91,11 +91,11 @@ projeto-asa/
 ### Execução
 - **git clone https://github.com/alva010203/ASA-Entrega-02.git**
 - **cd ASA-Entrega-02**
-- **docker-compose up -d** # sobe os containers definidos no docker-compose.yaml em segundo plano
-- **docker-compose --build -d** #força a reconstrução das imagens, mesmo que já existam, e depois sobe os containers em segundo plano.
-- **docker-compose down** #para e remove todos os containers, redes e volumes criados pelo docker-compose up.
+- **docker-compose up -d**  #sobe os containers definidos no docker-compose.yaml em segundo plano
+- **docker-compose --build -d**  #força a reconstrução das imagens, mesmo que já existam, e depois sobe os containers em segundo plano.
+- **docker-compose down**  #para e remove todos os containers, redes e volumes criados pelo docker-compose up.
   (Não remove as imagens).
-- **docker-compose down --rmi all** #faz tudo o que o down normal faz e também remove todas as imagens associadas aos serviços definidos no Compose.
+- **docker-compose down --rmi all**  #faz tudo o que o down normal faz e também remove todas as imagens associadas aos serviços definidos no Compose.
 
 ---
 <a name="Contribuidores"></a>
