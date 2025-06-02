@@ -15,8 +15,10 @@ https://github.com/alva010203/ASA-Entrega-02/blob/master/README.md
 ✅ **[Arquitetura](#Arquitetura) do projeto e diagrama.**  
 
 ✅ **4 containers Docker e seus arquivos de configuração**.  
-- **[dns](./ASA-Entrega-02/dns/)** 
-- **[web](./atividade-asa-01/web/)**  
+- **[dns](dns)** 
+- **[proxy](proxy)**
+- **[web](web)**
+- **[web02](web02)**
 
 ✅ **[Estrutura](#Estrutura) dos serviços implementados (dns,proxy e web).**  
 
