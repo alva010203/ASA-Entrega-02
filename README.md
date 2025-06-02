@@ -33,7 +33,7 @@ https://github.com/alva010203/ASA-Entrega-02/blob/master/README.md
 
 **O projeto é composto por quatro serviços Docker: um servidor DNS personalizado que resolve domínios asa.br, um proxy reverso (Nginx) que faz o balanceamento de carga, e dois servidores web (web e web02) que servem páginas HTML. O tráfego HTTP é roteado pelo proxy com base nos nomes resolvidos pelo DNS, simulando um ambiente de rede com alta disponibilidade e resolução local de nomes..**
 ### 📜Diagrama da Arquitetura
-![Image](https://github.com/user-attachments/assets/2e29c5b4-7a29-4ef5-859c-5fce92502147)
+![Image](https://github.com/user-attachments/assets/95b36905-ecbc-4776-bbd4-43edb0f0f9da)
 
 ### Componentes
 **lista dos serviços/containers utilizados com uma descrição basica**.
