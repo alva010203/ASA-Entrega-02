@@ -1,5 +1,4 @@
-# ASA-Entrega-02 - Docker: Conceitos e Implementação
----
+# ASA-Entrega-02 - Docker
 
 ## 📌 Descrição do Projeto  ![Status](https://img.shields.io/badge/Status-Funcionando-green)
 **Este repositório apresenta a entrega do seminário sobre Docker, realizado para a disciplina de ASA (Administração de Sistemas Abertos) com o professor [@salesfilho](https://github.com/salesfilho).
@@ -90,8 +89,8 @@ projeto-asa/
 -  **Instalado docker desktop ou docker engine**
 -  **Instalar o github caso vá usar o git clone**
 ### Execução
-- **git clone https://github.com/alva010203/ASA-Entrega-01.git**
-- **cd ASA-Entrega-01**
+- **git clone https://github.com/alva010203/ASA-Entrega-02.git**
+- **cd ASA-Entrega-02**
 - **./service.sh dns build**    #constrói a imagem do DNS
 - **./service.sh dns build**    #constrói a imagem do serviço web
 - **./service.sh dns start**    #inicia o container DNS
